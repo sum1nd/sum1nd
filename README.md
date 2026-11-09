@@ -1,11 +1,21 @@
 # Hi there, I'm D.Suman 👋
 
 I'm a First Year Student studying Bachelor of Engineering CSE at St. Joseph's College of Engineering. I'm passionate about software development, data science, AI and love turning ideas into code.
+LinkedIn: https://www.linkedin.com/in/suman-d-264b87424/ | GitHub: https://github.com/sum1nd
 
 ## 🎓 Education & Coursework
+I'm a Computer Science student passionate about technology, problem solving, and continuous learning.
 - **Degree:** B.E Computer Science and Engineering
 - **Expected Graduation:** August 2030
-<!--- **Relevant Coursework:** [Course 1], [Course 2], [Course 3], [Course 4] -->
+- **What I study**: Pursuing B.E. in Computer Science and Engineering at St. Joseph's College of
+Engineering
+- **Foundation**: Building my foundation in Programming, Data Structures & Algorithms, and Software
+Development
+- **Interested in**: Artificial Intelligence, Data Science, and real-world problem solving
+- **Exploring**: Projects that connect Computer Science, Data, and Technology
+- **Hackathons**: Interested in hackathons, collaborative projects, and technical challenges
+- Exploring technical writing and learning through projects
+- Always learning, building, and improving
 
 ## 🔭 What I'm Up To
 <!--- 🌱 Currently learning **[Technology or Framework you are studying]**
@@ -24,8 +34,8 @@ I'm a First Year Student studying Bachelor of Engineering CSE at St. Joseph's Co
 
 ## 📊 GitHub Stats
 ![[Your Name]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium)
-*(Note: Replace `[YOUR_GITHUB_USERNAME]` with your actual GitHub handle)*
+*(Note: Replace `[YOUR_GITHUB_USERNAME]` with your actual GitHub handle)* -->
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Link to your LinkedIn]
-- **Email:** -->
+- **LinkedIn:** https://www.linkedin.com/in/suman-d-264b87424/
+<!-- **Email:** -->
