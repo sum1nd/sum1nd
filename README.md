@@ -18,23 +18,14 @@ Development
 - Always learning, building, and improving
 
 ## 🔭 What I'm Up To
-<!--- 🌱 Currently learning **[Technology or Framework you are studying]**
-- 💻 Building **[Current Personal or Class Project]**
-- 👯 Looking to collaborate on **[Type of Projects, e.g., beginner-friendly open source, web apps]**-->
 - 🎒 Involved in: Coding Club
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Python
-<!--- **Frameworks & Libraries:** [Framework 1], [Framework 2]
-- **Tools:** [Git, GitHub, VS Code, etc.]
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects
 - **[Project Name 1]([Link to your repo]):** [One-sentence description of what it does and the tech stack used].
-- **[Project Name 2]([Link to your repo]):** [One-sentence description of what it does and the tech stack used].
-
-## 📊 GitHub Stats
-![[Your Name]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium)
-*(Note: Replace `[YOUR_GITHUB_USERNAME]` with your actual GitHub handle)* -->
+- **[Project Name 2]([Link to your repo]):** [One-sentence description of what it does and the tech stack used]. -->
 
 ## 📫 Let's Connect
 - **LinkedIn:** https://www.linkedin.com/in/suman-d-264b87424/
